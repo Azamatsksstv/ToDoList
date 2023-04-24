@@ -34,4 +34,4 @@
 
 ***Usage
 
-*Once the server is running, you can access the application at http://localhost:8000/api/v1. The home page will display a list of all tasks. You can add new tasks by clicking the "Add Task" button, edit or delete existing tasks by clicking the corresponding buttons next to each task.
+*Once the server is running, you can access the application at http://localhost:8000/api/v1. The home page will display a list of all tasks.
